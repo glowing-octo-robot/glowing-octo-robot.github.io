@@ -13,10 +13,7 @@ We work hard every day to help students to learn, researchers and scientists to 
 
 We intend to use this blog to share the our knowledge and the details of our approach and the challenges we face. We would like it to be a tool for prospective employees and fellow engineers in our industry to understand the company's take on the technology and organizational issues of our day to day. Thank you for reading and participating in the conversation!
 
-Silke, Agile coach 
-
-Jim, Developer
-
-Max, Developer
-
+Silke, Agile coach <br/>
+Jim, Developer <br/>
+Max, Developer <br/>
 Luis, Developer
