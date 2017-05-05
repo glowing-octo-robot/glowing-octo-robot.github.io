@@ -46,8 +46,7 @@ TODO
 
 _Phillip_
 
-Going for a small trip
-===
+### Going for a small trip
 
 since we are writing a couple of services  we must sometimes validate why a specific service is slower than expected and therefor I was looking into a language which provides a toolset to deal with profiling --in this case go lang.
 
@@ -181,8 +180,7 @@ func req(t *testing.T, v string) *http.Request {
 }
 ```
 
-detecting race conditions
-===
+### detecting race conditions
 
 Even though go has concurrency built-in to the language and automatically parallelizes code as necessary over any available CPUs you can write code with a data race if you're not careful enough.
 
@@ -360,8 +358,7 @@ func handleRoot(w http.ResponseWriter, r *http.Request) {
 }
 ```
 
-CPU profiling
-===
+### CPU profiling
 
 Besides the runtime profiling (```_ "net/http/pprof"```) there's also a more reliale and faster way to get the needed information. For that we need to extend our test with
 
@@ -526,8 +523,7 @@ func handleRoot(w http.ResponseWriter, r *http.Request) {
 }
 ```
 
-Summary
-===
+### Summary
 
 Comming from a Java dominated World I really enjoyed working with go. I think it is easy to read and toolset is just amazing.
 Some people would may miss generics but in my oppinion most cases could be handled via the concept of dynamic interface association. 
