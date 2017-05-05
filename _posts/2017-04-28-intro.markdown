@@ -6,7 +6,7 @@ date:   2017-04-28 11:33:43 +0200
 
 Hi there,
 
-this is the first post of our brand new blog the cool guys and the others. But you may be asking yourself, but who are you? Well, that is a good question. We are a group of motivated individuals with different nationalities, backgrounds, skills and experiences. We like to try out new things and use our potential of diversity to explore creative/new ways of building business solutions in an agile manner.
+this is the first post of our brand new blog "the cool ones" and "the others". But you may be asking yourself, but who are you? Well, that is a good question. We are a group of motivated individuals with different nationalities, backgrounds, skills and experiences. We like to try out new things and use our potential of diversity to explore creative/new ways of building business solutions in an agile manner.
 
 Springer Nature is one of the biggest publisher for scientific books, magazines and articles in the world. The IT department in Berlin takes care of the Springer Nature eCommerce platform giving support to thousands of websites around the world, including Springer, Springer Link, Nature, Macmillan, Palgrave and Apress. On top of that we develop as well Scientific databases and elearning software. We work every day to provide educational and research institutions around the world access to the most relevant scienfic knowledge everyday.
 We work hard every day to help students to learn, researchers and scientists to discover and professionals to achieve their goals and ambitions.
